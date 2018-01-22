@@ -21,4 +21,12 @@
   body {
     font-size: 85%;
   }
+
+  #logo h1 {
+    width: 35px;
+    height: 35%;
+  }
+  #logo h2 {
+    font-size: 2.2em;
+  }
 }
